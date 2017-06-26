@@ -445,7 +445,7 @@ CONFIG_CMDLINE=""
 CONFIG_EFI_STUB=y
 CONFIG_EFI=y
 CONFIG_BUILD_ARM64_APPENDED_DTB_IMAGE=y
-CONFIG_BUILD_ARM64_APPENDED_DTB_IMAGE_NAMES=""
+CONFIG_BUILD_ARM64_APPENDED_DTB_IMAGE_NAMES="qcom/msm8996-v3-htc_pme-pvt qcom/msm8996-v3-htc_pme-xc qcom/msm8996-v3-htc_pme-xb qcom/msm8996-v3-htc_pme-xa qcom/msm8996-v2-htc_pme-xb qcom/msm8996-v2-htc_pme-xa qcom/msm8996-v2-htc_evm qcom/msm8996-v3-htc_pmeuhljapan-xa qcom/msm8996-v3-htc_pmeuhljapan-xb qcom/msm8996-v3-htc_pmewhl-xd qcom/msm8996-v3-htc_pmewhl-pvt qcom/msm8996-v3-htc_pmeuhljapan-pvt qcom/msm8996pro-v1.1-htc_oce-xa qcom/msm8996pro-v1.1-htc_oce-xb qcom/msm8996pro-v1.1-htc_oce-xc qcom/msm8996pro-v1.1-htc_oce-pvt"
 CONFIG_DMI=y
 
 #
